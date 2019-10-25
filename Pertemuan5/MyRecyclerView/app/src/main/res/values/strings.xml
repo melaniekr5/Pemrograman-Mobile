@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+
+    <string name="hmj_name">FILM TERFAVORIT</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>The Fault in Our Stars</item>
+        <item>Fifty Shades of Grey</item>
+        <item>IT 2017</item>
+        <item>Aladdin</item>
+        <item>Divergent</item>
+        <item>Maleficent</item>
+        <item>Avengers: Endgame</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Film ini diangkat dari novel dengan judul yang sama karyanya John Green. Karya ini rilis pada 19 Juni tahun 2014 kemarin. Dua pemain utamanya, Shailene Woodley dan Ansel Elgort, banyak dipuji karena berhasil membawakan karakter Gus dan Hazel dengan baik. Film romantis ini mungkin tidak menjadi harapan untuk cerita cinta kamu. Tapi para tokohnya memang bermain dengan apik, sangat intens dan mampu mencabik hati para penontonnya.</item>
+        <item>Fifty Shades of Grey bercerita tentang Anastasia "Ana" Steele, seorang mahasiswi sastra berusia 22 tahun yang tinggal bersama sahabatnya, Katherine Kavanagh. Katherine bekerja sebagai penulis untuk jurnal kampus mereka. Karena sakit, Katherine membujuk Ana untuk menggantikannya mewawancarai seorang pengusaha muda sukses dan kaya berusia 27 tahun bernama Christian Grey. Ana langsung tertarik pada Grey dan terobsesi oleh kharisma sensual yang dimilikinya. </item>
+        <item>Film IT akan bercerita tentang sekelompok anak yang memiliki panggilan "Losers" sedang menyelidiki dan mencoba mengungkap misteri hilangnya anak-anak dikota mereka, kota Derry, Maine. Namun sang penebar teror, badut seram yang memiliki nama Pennywise tidak tinggal diam.</item>
+        <item>Film Aladdin mengisahkan petualangan dari cerita 1001 malam yang terkenal dalam bentuk live action dimana seorang pria miskin bertemu dengan jin yang berada dalam lampu ajaib. Aladdin, pemuda biasa yang jatuh cinta dengan putri Sultan yang bernama Jasmine. Film ini merupakan remake dari film animasi Disney tahun 1992 berjudul Aladdin yang diambil dari kisah rakyat Seribu Satu Malam. Film Aladdin dibintangi oleh Mena Massoud, Will Smith, Naomi Scott dan Marwan Kenzari.</item>
+        <item>Film aksi berjudul “Divergent” menceritakan tentang manusia dewasa yang dibagi menjadi lima jenis menurut karakteristik mereka masing-masing. Kelima jenis kategori tersebut adalah Candor (jujur), Erudite (genius), Amity (suka damai), Dauntless (pemberani) dan Abnegation (penolong tanpa pamrih). Sedangkan untuk kategori "Divergent" adalah kategori yang tidak termasuk ke dalam kelima jenis kategori karakteristik tersebut karena memiliki berbagai macam kepribadian yang menonjol dalam dirinya.</item>
+        <item>Film Maleficent mengisahkan seorang peri penjaga hutan bernama Maleficent yang memberikan kutukan tidur kepada seorang putri kerajaan bernama Aurora. Film yang diarahkan oleh Robert Stromberg ini, skenarionya ditulis oleh Linda Woolverton berdasarkan cerita dongeng karya Charles Perrault dan film animasi Walt Disney berjudul Sleeping Beauty (1959). Film dibintangi oleh Angelina Jolie, Sharlto Copley, Elle Fanning, Sam Riley, Imelda Staunton, Juno Temple dan Lesley Manville.</item>
+        <item>Film Avengers: Endgame (2019) merupakan sebuah film yang menceritakan kisah  pertarungan akhir dari Thanos yang memusnahkan setengah dari semua kehidupan di alam semesta, Avengers yang tersisa harus melakukan apa yang diperlukan untuk membatalkan perbuatan Titan yang gila. Dalam film ini dibintangi Bradley Cooper, Brie Larson, Chadwick Boseman, Chris Evans, Chris Hemsworth, Dave Bautista, Elizabeth Olsen, Evangeline Lilly, Gwyneth Paltrow, Jeremy Renner, Jon Favreau, dan Josh Brolin.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/2/22/Fault_in_our_stars.jpg/250px-Fault_in_our_stars.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/5/5e/50ShadesofGreyCoverArt.jpg</item>
+        <item>https://4.bp.blogspot.com/-i8flSyd6DUs/WYVdlRJ3voI/AAAAAAAACLc/lUX63p4UqgQ3XlPyrrC-HndaFRTb3IRVACLcBGAs/s400/IT%2B2017.jpg</item>
+        <item>https://www.bioskoptoday.com/wp-content/uploads/2019/03/poster-aladdin.jpg</item>
+        <item>https:////upload.wikimedia.org/wikipedia/en/thumb/d/d4/Divergent.jpg/220px-Divergent.jpg</item>
+        <item>https://i.pinimg.com/originals/4e/ae/b1/4eaeb1733fc95c1c0e6a1d98d5bdebf5.jpg</item>
+        <item>https://2.bp.blogspot.com/-jZ6HjIORkIE/XMJJqiSMlOI/AAAAAAAAAQQ/KEd6zhMR7EoLYdB-WHLdZkTN6VTgIIbuQCLcBGAs/s400/images.jpg</item>
+    </string-array>
+</resources>
