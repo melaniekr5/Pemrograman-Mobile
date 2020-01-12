@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "955609496314",
+    "firebase_url": "https://daftar-belanja-harian-a3b77.firebaseio.com",
+    "project_id": "daftar-belanja-harian-a3b77",
+    "storage_bucket": "daftar-belanja-harian-a3b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955609496314:android:5c0f800bb6993beb992743",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955609496314-93skpckqgus9u42cq0r63553be8q93if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daftarbelanja",
+            "certificate_hash": "02b8843dd8fe56262bd66135fc91f1bc6de42150"
+          }
+        },
+        {
+          "client_id": "955609496314-v63sfbmsn5v1n03l73jjfvgbrf35gs6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5ZhR-WEP4hPKLOo1NBqFKcrtYOxpM_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955609496314-v63sfbmsn5v1n03l73jjfvgbrf35gs6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955609496314:android:28db2e10f3f62497992743",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanjaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955609496314-24ue5edbavbb2s5baectahf5vf0vt9io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daftarbelanjaku",
+            "certificate_hash": "02b8843dd8fe56262bd66135fc91f1bc6de42150"
+          }
+        },
+        {
+          "client_id": "955609496314-v63sfbmsn5v1n03l73jjfvgbrf35gs6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5ZhR-WEP4hPKLOo1NBqFKcrtYOxpM_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955609496314-v63sfbmsn5v1n03l73jjfvgbrf35gs6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
